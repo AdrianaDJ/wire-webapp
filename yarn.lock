@@ -5238,10 +5238,10 @@ detect-newline@^3.0.0:
   resolved "https://registry.yarnpkg.com/detect-newline/-/detect-newline-3.1.0.tgz#576f5dfc63ae1a192ff192d8ad3af6308991b651"
   integrity sha512-TLz+x/vEXm/Y7P7wn1EJFNLxYpUD4TgMosxY6fAVJUnJMbupHBOncxyWUG9OpTaH9EBD7uFI5LfEgmMOc54DsA==
 
-dexie-batch@0.4.2:
-  version "0.4.2"
-  resolved "https://registry.yarnpkg.com/dexie-batch/-/dexie-batch-0.4.2.tgz#8e457d7eb3da933802eae561e9f0141c9d84b2f9"
-  integrity sha512-tDEVCArDddWtSq8EnRovbxw4CBQaBxABMFzahbI8+C6oWMG4yu0DZjMhC3kzdDjz39PIlz75/wuBHk5lgrDiTw==
+dexie-batch@0.4.3:
+  version "0.4.3"
+  resolved "https://registry.yarnpkg.com/dexie-batch/-/dexie-batch-0.4.3.tgz#7c470f1f3a2669e149880ffd4116bff167306f2b"
+  integrity sha512-RGpnRpuTrkfRkw3Y6OInm4ZPSdHltjwEFn6cZpHl9RXRK52Dn8O7e3Vvcmc0uWNEMGQstJjyBu/R4ZqGMz5mtg==
 
 dexie@2.0.4, dexie@^2.0.0:
   version "2.0.4"
