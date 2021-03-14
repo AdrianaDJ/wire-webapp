@@ -64,7 +64,7 @@
     "@hot-loader/react-dom": "16.14.0",
     "@testing-library/react": "11.2.2",
     "@types/adm-zip": "0.4.33",
-    "@types/dexie-batch": "0.4.1",
+    "@types/dexie-batch": "0.4.2",
     "@types/enzyme": "3.10.8`",
     "@types/faker": "5.1.5",
     "@types/generate-changelog": "1.8.0",
