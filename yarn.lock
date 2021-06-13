@@ -2796,10 +2796,10 @@
   dependencies:
     protobufjs "6.8.8"
 
-"@wireapp/protocol-messaging@1.27.1":
-  version "1.27.1"
-  resolved "https://registry.yarnpkg.com/@wireapp/protocol-messaging/-/protocol-messaging-1.27.1.tgz#f2173a22c0088d5b5df75617a4ab85e4201916dc"
-  integrity sha512-/EYBIpZHONNV90tajVuuo3i+RzDKG2oVBeI9aOIVneWgHJyWvb50pjLc/nnJ9N5vCoPtyZS1fy/JLuN7miDbwA==
+"@wireapp/protocol-messaging@1.35.0":
+  version "1.35.0"
+  resolved "https://registry.yarnpkg.com/@wireapp/protocol-messaging/-/protocol-messaging-1.35.0.tgz#2d45f67bdd00f31383f93b23dcf636b4278ca673"
+  integrity sha512-RsgREb74npIOMKac2Q5oUgLT6noqKY7Tze+TdWJ3dX/gxp5Oid4mOcaCm5jKJb94K7MxhBo/E+jE6FzZiWWYQg==
   dependencies:
     protobufjs "6.10.2"
 
