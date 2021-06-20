@@ -2843,10 +2843,10 @@
   dependencies:
     "@types/node" "~12"
 
-"@wireapp/webapp-events@0.9.0":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@wireapp/webapp-events/-/webapp-events-0.9.0.tgz#c81710043b17491c120ea6c48b356f56a1e7cea2"
-  integrity sha512-6SUVBaZpbk+y+3Cj3EcoMxRmiw/Uggj5pDDggXojkZIHbJ/28quYpq1UlhAGuUaXxsHDKA58IgiU9KnTGr5cBA==
+"@wireapp/webapp-events@0.11.0":
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/@wireapp/webapp-events/-/webapp-events-0.11.0.tgz#c95dd482d194b4cef68c096a7aa440581d2ae189"
+  integrity sha512-CcEb4B1JRvr0Pqm7AWk4FzQKXZbISOffGchXkEDNcBj+nsixLkRQAfNqecDzvZogYRSfI4TvCC/gEFhybt6LWA==
 
 "@wireapp/websql@0.0.17":
   version "0.0.17"
